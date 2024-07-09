@@ -1,8 +1,6 @@
 # CREATE KIM MIN JAE'S PASS and HEAT MAP IN THE BAYER LEVERKUSEN MATCH
 
 
-**This project is a pass and heat map of a soccer player in a match. The statsbombpy package in Python and the mplsoccer library were used for this project. 
-Specific variables were selected and worked on this dataset.**
 
 ---
 ## Start
